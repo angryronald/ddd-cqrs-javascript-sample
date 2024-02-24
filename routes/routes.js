@@ -24,7 +24,7 @@ const profiles = [
     "socionics": "SEE",
     "sloan": "RCOEN",
     "psyche": "FEVL",
-    "image": "https://soulverse.boo.world/images/1.png",
+    "image": "https://test/images/1.png",
   }
 ];
 
